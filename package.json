@@ -1,6 +1,6 @@
 {
   "name": "firebase-auth-functions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Nicholas Newman",
   "license": "MIT",
   "main": "dist/index.js",
